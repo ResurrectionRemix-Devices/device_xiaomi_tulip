@@ -570,7 +570,7 @@
     <bool name="config_battery_percentage_show_inside_icon">true</bool>
 
     <!-- Height of area above QQS where battery/time go (equal to status bar height if > 48dp) -->
-    <dimen name="quick_qs_offset_height">88px</dimen>
+
 
     <!-- Total height of QQS (quick_qs_offset_height + 128) -->
     <dimen name="quick_qs_total_height">188dp</dimen>
